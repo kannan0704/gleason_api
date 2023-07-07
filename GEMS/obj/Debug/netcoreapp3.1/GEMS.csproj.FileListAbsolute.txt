@@ -1,0 +1,6 @@
+D:\CRUD\GEMS\GEMS\obj\Debug\netcoreapp3.1\GEMS.csproj.AssemblyReference.cache
+D:\CRUD\GEMS\GEMS\obj\Debug\netcoreapp3.1\GEMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD\GEMS\GEMS\obj\Debug\netcoreapp3.1\GEMS.AssemblyInfoInputs.cache
+D:\CRUD\GEMS\GEMS\obj\Debug\netcoreapp3.1\GEMS.AssemblyInfo.cs
+D:\CRUD\GEMS\GEMS\obj\Debug\netcoreapp3.1\GEMS.csproj.CoreCompileInputs.cache
+D:\CRUD\GEMS\GEMS\obj\Debug\netcoreapp3.1\GEMS.MvcApplicationPartsAssemblyInfo.cache
